@@ -3,7 +3,7 @@
 ~~怎么链接过去~~
 
 ***
-## DAY1
+# DAY1
 ```MYLOVE_LANGUAGE
 √	AI的考核 
 √	GIT学习和使用
@@ -28,7 +28,7 @@ $ git push -u origin master
 
 ***
 
-## DAY2
+# DAY2
 ```MYLOVE_LANGUAGE
 Today is not over yet . . .
 ```
