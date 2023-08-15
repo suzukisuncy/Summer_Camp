@@ -29,3 +29,7 @@ $ git push -u origin master
 ***
 
 ## DAY2
+```MYLOVE_LANGUAGE
+Today is not over yet . . .
+```
+![](./strange.jpg)
