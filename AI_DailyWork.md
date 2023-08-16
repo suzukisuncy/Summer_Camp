@@ -1,11 +1,11 @@
 # 目录
-## DAY1
-~~怎么链接过去~~
-## DAY2
-## DAY3
+[*DAY1](#DAY1) 
+[*DAY2](#DAY2) 
+[*DAY3](#DAY3) 
+[*DAY4](#DAY4) 
 
 ***
-# DAY1
+# DAY1[:triangular_flag_on_post:](#目录) 
 ```MYLOVE_LANGUAGE
 √	AI的考核 
 √	GIT学习和使用
@@ -30,7 +30,7 @@ $ git push -u origin master
 
 ***
 
-# DAY2
+# DAY2[:triangular_flag_on_post:](#目录) 
 > TourGroup_Help编译不过去哇哇哇:disappointed_relieved:protoc到底在哪里:rage:
 > 
 > 使用一点表情，调解一下情绪:relaxed:
@@ -69,10 +69,21 @@ PROJECT_SOURCE_DIR	#宏
 
 。。。有空再补。。。
 ```
-# DAY3
+# DAY3[:triangular_flag_on_post:](#目录) 
+>:alien:安装了Ubuntu 20 ，安装了ROS
+>:heart:学了点catkin_make
+>:satisfied:TourHelp编译通过啦！
+>:dizzy_face:可完全不知道在跑什么。
 
+```
+catkin_make #workspace目录下
+catkin_make -DCATKIN_WHITELIST_PACKAGES=“package1;package2” #工作空间中编译指定的包
+catkin_make -DCATKIN_WHITELIST_PACKAGES=“” #如果还原要编译所有包，执行以下命令
+catkin_create_pkg <package> [depend1] [depend2] [depend3] #创建功能包
+```
+>此图不来源网络，来源于焕缤
+![此图不来源于网络，来源于焕彬](./strange1.jpg)
+# DAY4[:triangular_flag_on_post:](#目录) 
 
 >前面的世界以后再来探索吧 . . . 
-
-
 ![](./strange.jpg)
